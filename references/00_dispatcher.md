@@ -14,7 +14,7 @@ This skill governs end-to-end **Entity Identity definition**, **Wanted vs. Unwan
 - You are wiring informational answer/attribute pages to commercial money pages via **1-link natural in-body contextual buyer-journey bridges** instead of redundant `20`-link location blocks (Module 3).
 
 ## When NOT to Use & Sibling Routing
-- Pass/fail **final pre-publication candidate screening** against existing site inventory right before drafting (`ACCEPT / REWORK / REJECT` `publish-gate.md`, run *after* candidates pass Module 1's initial 4-Question Page-Focus Screen) -> route to [`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md) Module 20 ([`module_20_pre_publication_semantic_drift_gate.md`](../../kirby-aiseo-skill/SKILL.md)).
+- Pass/fail **final pre-publication candidate screening** against existing site inventory right before drafting (`ACCEPT / REWORK / REJECT` `publish-gate.md`, run *after* candidates pass Module 1's initial 4-Question Page-Focus Screen) -> route to [`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md) Module 20 (`module_20_pre_publication_semantic_drift_gate.md` in [`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md)).
 - Page-level SEO, BLUF, SVO triples, Brand SSOT `/facts` & `/trust`, and 10-point service/blog rules -> route to [`kirby-aiseo-skill`](../../kirby-aiseo-skill/SKILL.md) Module 2.
 - Local Core 30 GBP-mirroring site architecture and Gate 0 location differentiation -> route to [`kirby-local-seo`](../../kirby-local-seo/SKILL.md) Modules 7 & 11.
 - Grounded GSC/GA4/DataForSEO site audit and 30-day & 14-week roadmap (`90-day` GSC window) -> route to [`kirby-grounded-seo-auditor`](../../kirby-grounded-seo-auditor/SKILL.md).
