@@ -7,8 +7,9 @@
 ## 1.1 The End of Volume-Driven "Topical Authority"
 1. **The Nov 10, 2026 Core-Update Cohort (Mid-Rollout Audit Conducted Nov 14, 2026; Single-Source):** A preliminary mid-rollout audit conducted Nov 14 across `172` sites cohorting around the Nov 10, 2026 Google Core Update reported **`86 of 172` (`50.0%`)** losing visibility; the auditor attributed the losses primarily to off-topic informational drift away from what the business actually sells (conversion effect unverified).
 2. **SERP Evidence (`"do braces hurt"` / `"do fillings hurt"` — Nov 13, 2026):**
-   - `"do braces hurt"` (`1,100` searches/mo, `KD 26`, `658` clicks): AI Overview + 1 dental site + PAA + Reddit + Discussions/Forums + Video carousel appear before the second organic URL at Position 7; **9 of the 10 websites ranking in 2024 dropped out of the top 10 by Nov 2026**.
+   - `"do braces hurt"` (`1,100` searches/mo, **`KD 0`**, `658` clicks): AI Overview + 1 dental site + PAA + Reddit + Discussions/Forums + Video carousel appear before the second organic URL at Position 7; **9 of the 10 websites ranking in 2024 dropped out of the top 10 by Nov 2026** (`Ahrefs SERP similarity = 0`).
    - `"do fillings hurt"` shows an AI Overview at #1 followed by Colgate (`DR 84`). Practitioner claim (Kasra Dash): chasing ~500 informational blog posts around head terms is ineffective for most commercial SMBs.
+   - **Competitor Service-Pages-Not-Blogs Discovery Rule (`pySFRAi6RIM`):** When mining competitors for attributes, inspect **competitors' commercial service pages — NOT their blogs** (alongside sales calls/emails, SERP AIO+PAA, and strictly filtered Ahrefs keywords).
 3. **Unobservable Leak Boundary:** Commentary around `siteFocusScore` and `siteRadius` reflects leaked-attribute analysis (and proprietary tools like `RankOS`). Live Google scores cannot be queried; treat focus and radius as **strict structural gates**, never invented numerical scores.
 
 ---

@@ -6,7 +6,7 @@ Bulk keyword-export topical maps and bloated generic informational blogs risk co
 
 **The solution:** `kirby-source-context-topical-architect` enforces Week-1 Entity Identity (`Max 2 Things`), explicit **Wanted vs. Unwanted Attribute Boundaries**, **Core-First service-page coverage** before any informational publishing, **semi-automated up-to-8 eligible direct commercial competitors' sitemap `QDP/QDH/QDS`** topical mapping, and **single natural in-body contextual buyer-journey bridges** replacing redundant 20-link location blocks.
 
-Sources: Kasra Dash (Nov 12–18, 2026) & Koray Tuğberk GÜBÜR (Nov 11, 2026).
+Sources: Kasra Dash (Nov 12–18, 2026) & Koray Tuğberk GÜBÜR (Oct 10, 2026).
 
 ## 🪄 The Magic Prompt
 
